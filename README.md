@@ -13,3 +13,8 @@ To survey the UCLA campus about their attitudes of bees and whether they support
 ## Data 
 
 We surveyed the campus with a survey instrument between 10/15/2017 and 12/15/2017. 
+
+### Variables
+
+* yes
+* no
