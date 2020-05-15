@@ -18,3 +18,4 @@ We surveyed the campus with a survey instrument between 10/15/2017 and 12/15/201
 
 * yes
 * no
+* n/a
